@@ -8,4 +8,4 @@
 <br/> Nuget: https://www.nuget.org/profiles/fgather
 
 # Docs: Architectural Unit Testing
-<br/> GitHub: https://github.com/ricardogaldino/docs-architectural-unit-testing
+<br/> GitHub: https://github.com/ricardogaldino/docs_architectural-unit-testing
